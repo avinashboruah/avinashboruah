@@ -12,12 +12,11 @@
 
 <h2 align="center">My Tech Stack</h2>
 
-<div align="center"  style="background-color:white; padding:10px; border-radius:10px;">
-
-
-
-
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,tailwind,nodejs,express,fastapi,postgres,mongodb,redis,docker,git,github,postman&perline=8" alt="My Tech Stack" />
+  </a>
+</p>
 
 
 
